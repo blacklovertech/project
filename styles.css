@@ -1,0 +1,153 @@
+
+
+.rZXyy.YwNp1:not(.xp2dJ), .rZXyy:not(.u0dx8e):not(.ILo0B):not(.xp2dJ) {
+    cursor: pointer;
+}
+
+.R4EiSb {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    -webkit-box-pack: justify;
+    -webkit-justify-content: space-between;
+    justify-content: space-between;
+    height: 4.5rem;
+    padding: 1rem 1rem 0.75rem;
+    position: relative;
+    border-color: black;
+}
+.Tc9hUd {
+    position: relative;
+}
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: underline;
+}
+.VfPpkd-Bz112c-LgbsSe {
+    --mdc-ripple-fg-size: 0;
+    --mdc-ripple-left: 0;
+    --mdc-ripple-top: 0;
+    --mdc-ripple-fg-scale: 1;
+    --mdc-ripple-fg-translate-end: 0;
+    --mdc-ripple-fg-translate-start: 0;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    will-change: transform,opacity;
+}
+.WpHeLc {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+    outline: none;
+}
+.SZ0kZe {
+    border-top: 0.0625rem solid #dadce0;
+    line-height: 0;
+    padding: 0.25rem;
+}
+.F2CcI, .SZ0kZe {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-shrink: 0;
+    flex-shrink: 0;
+    -webkit-box-pack: end;
+    -webkit-justify-content: flex-end;
+    justify-content: flex-end;
+}
+.PNzAWd {
+    border-radius: 50%;
+    float: right;
+    height: 4.6875rem;
+    position: relative;
+    margin-top: -3.09375rem;
+    width: 4.6875rem;
+}
+.TQYOZc {
+    -webkit-box-flex: 1;
+    -webkit-flex-grow: 1;
+    flex-grow: 1;
+    min-height: 0;
+    padding: 1rem;
+    padding-top: 0.75rem;
+    border-width: 1px;
+    background-color: whitesmoke;
+}
+.UvHKof.bFjUmb-Tvm9db, .UvHKof .bFjUmb-Tvm9db, .UvHKof.CNpREd.bFjUmb-Tvm9db, .UvHKof.CNpREd .bFjUmb-Tvm9db {
+    background-color: #252629;
+}
+.kYtXye.bFjUmb-Tvm9db, .kYtXye .bFjUmb-Tvm9db, .kYtXye.CNpREd.bFjUmb-Tvm9db, .kYtXye.CNpREd .bFjUmb-Tvm9db {
+    background-color: #185abc;
+}
+
+.ZizeYd, .O7utsb {
+    background-color: #202124;
+}
+
+.OjOEXb, .ZizeYd, .O7utsb, .ZmqAt {
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+div {
+    display: block;
+}
+
+.gHz6xd {
+    background-clip: padding-box;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    height: 18.375rem;
+    margin-bottom: 1.5rem;
+    margin-right: 1.5rem;
+    overflow: hidden;
+    position: relative;
+    text-align: left;
+    width: 18.75rem;
+}
+.Aopndd {
+    background-color: #fff;
+    border: 0.0625rem solid #dadce0;
+    -webkit-border-radius: 0.5rem;
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+user agent stylesheet
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+}
+ul, ol {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+user agent stylesheet
+ol {
+    list-style-type: decimal;
+}
+body {
+    color: rgba(0,0,0,.87);
+    font-family: "Roboto",Helvetica,Arial,sans-serif;
+    font-size: 0.8125rem;
+    font-weight: 400;
+    line-height: 1.25rem;
+    margin: 0;
+    min-width: 18.75rem
+rem
+;
+}
+
